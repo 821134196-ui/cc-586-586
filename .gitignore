@@ -13,3 +13,7 @@ build/
 轨迹/
 录屏/
 视频/
+
+# 图书漂流箱：运行时数据与前端构建产物
+data/
+backend/src/main/resources/META-INF/resources/
